@@ -1,8 +1,9 @@
 # 📱 Análisis del Comportamiento de Clientes - ConnectaTel
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fercho9586/project_ConectaTel/blob/main/project_ConectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fercho9586/analisys_ConnectaTel/blob/main/Project_ConnectaTel_.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)
 ![Status](https://img.shields.io/badge/Estado-Finalizado-success.svg)
+
 
 # 📌 Objetivo del Proyecto
 Evaluar el comportamiento de consumo (llamadas y mensajes) y el perfil demográfico de los clientes de **ConnectaTel**, una empresa de telecomunicaciones en Latinoamérica, con datos registrados hasta el cierre de **2024**. 
